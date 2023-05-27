@@ -8,4 +8,9 @@
  + Chuyển dữ liệu từ session thành 1 list hàng đã được đưa vào giỏ (file listCart.php)
  + Nhấn nút "Mua tiếp" quay lại list sản phẩm (file listItem.php) để mua tiếp
  + Nhấn nút "Đặt hàng" hiển thị alert("Đặt hàng thành công")
-![image](https://github.com/LaiTungcute/Demophp1/assets/90131766/ab2ae985-49ab-49fb-9ed5-221103e45b22)
+
+- List sản phẩm
+![image](https://github.com/LaiTungcute/Demophp1/assets/90131766/d052e8b1-4370-4861-b424-4e50e59694bc)
+
+- List giỏ hàng
+![image](https://github.com/LaiTungcute/Demophp1/assets/90131766/05ad301c-5b27-4791-ad44-d8481c58fdba)
