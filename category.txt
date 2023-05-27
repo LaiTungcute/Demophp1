@@ -1,0 +1,3 @@
+1	Bánh	Bánh ngon
+2	Kẹo	Kẹo ok
+3	Quạt	Quạt mát
