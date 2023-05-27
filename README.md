@@ -10,7 +10,7 @@
  + Nhấn nút "Đặt hàng" hiển thị alert("Đặt hàng thành công")
 
 - List sản phẩm
-![image](https://github.com/LaiTungcute/Demophp1/assets/90131766/d052e8b1-4370-4861-b424-4e50e59694bc)
+![image](https://github.com/LaiTungcute/Demophp1/assets/90131766/c2803ef9-a64e-4efc-b49d-ae9a28fb641b)
 
 - List giỏ hàng
 ![image](https://github.com/LaiTungcute/Demophp1/assets/90131766/05ad301c-5b27-4791-ad44-d8481c58fdba)
